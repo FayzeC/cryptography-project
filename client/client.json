@@ -1,0 +1,10 @@
+{
+    "users": {
+        "client1": {
+            "password": "JKYip8R7QFcYlU0RF38WJupzfZl5iMdjMxtqjG/j0j1KDT+B2Vg4gAe/rNl2rE9ZaEmzDpshIIzQV39dNMbpcK8FULAUWGO5BlmRu+W+9wtsSwwbCpaCWIJg1AWWgt0y"
+        },
+        "client2": {
+            "password": "IMwDm4G+41aLMm1TQWUb4Wi8BriqkrCEifaftfRhzPdpZs7CTW+ZiSMfPBxDnnKJstu1tz0crolMO0wJcqKpwPjqlYPFFhvy5XZ41Qkh7wKhfKdtxOVbVRiWSwSFTI6Q"
+        }
+    }
+}
