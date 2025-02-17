@@ -1,3 +1,9 @@
+This group project involves a secure client application that communicates with a server using authentication and the following encryption techniques:
+- Multifactor Authentication (MFA) with password hashing and OTP (Google Authenticator)
+- RSA Encryption for protecting private keys and decrypting secret keys (HMAC and OTP)
+- HMAC Validation for message integrity when receiving the "Menu-of-the-Day"
+- Secure Storage of user credentials using JSON with base64 encoding
+
 ** Please change the filePath on all the python files and download Google Authenticator and pip install pyotp in vscode terminal!
 
 --------------------
